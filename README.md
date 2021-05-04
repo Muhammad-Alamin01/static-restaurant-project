@@ -1,0 +1,2 @@
+
+# static-restaurant-project
